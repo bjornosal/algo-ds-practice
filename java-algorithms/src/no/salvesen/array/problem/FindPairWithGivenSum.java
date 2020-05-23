@@ -3,13 +3,11 @@ package no.salvesen.array.problem;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * http://www.techiedelight.com/find-pair-with-given-sum-array/
+ * Problem: Given an unsorted array of integers; find a pair with a given sum in it.
+ */
 public class FindPairWithGivenSum {
-
-  /**
-   * http://www.techiedelight.com/find-pair-with-given-sum-array/
-   * Problem: Given an unsorted array of integers; find a pair with a given sum in it.
-   */
-
 
   public static void main(String[] args) {
 

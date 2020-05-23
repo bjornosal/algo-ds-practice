@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * http://www.techiedelight.com/find-sub-array-with-0-sum/
+ * Problem: Given an array of integers, print all sub-arrays with 0 sum.
+ */
 public class FindAllSubArraysWithZeroSum {
 
-  /**
-   * http://www.techiedelight.com/find-sub-array-with-0-sum/
-   * Problem: Given an array of integers, print all sub-arrays with 0 sum.
-   */
   public static void main(String[] args) {
     int[] arr = {4, 2, -3, -1, 0, 4};
     int[] arr2 = {3, 4, -7, 3, 1, 3, 1, -4, -2, -2};
