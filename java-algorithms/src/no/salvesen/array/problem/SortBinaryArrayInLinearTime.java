@@ -16,7 +16,7 @@ public class SortBinaryArrayInLinearTime {
   }
 
   //TODO: Is it O(n) (linear time)?
-  //TODO: Is is constant space? Yes. 
+  //TODO: Is is constant space? Yes.
   private static int[] solve(int[] arr) {
     int amountOfZeros = 0;
     for (int value : arr) {
